@@ -2,4 +2,5 @@
  Debug classical node thorugh the convenient use of a jupyter notebook
 
  ## Running
- To run, simply make sure to install all dependencies (in requirements.txt) and run `jupyter notebook`.
+ To install dependencies, make sure you have jupyter notebook installed and can run binary-classical-node.
+ To run just run`jupyter notebook`.
